@@ -11,3 +11,4 @@ with col2:
     """)
 
 st.subheader('The page ends here')
+st.image('llama_wide.jpg')
